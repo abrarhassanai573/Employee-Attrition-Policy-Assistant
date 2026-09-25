@@ -1,8 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 pandas
 numpy
 scikit-learn==1.6.1
 joblib
+torch==2.4.1
 sentence-transformers
 google-generativeai
 groq
