@@ -147,7 +147,7 @@ Answer clearly and briefly."""
             from groq import Groq
             client = Groq(api_key=groq_key)
             completion = client.chat.completions.create(
-                model="llama-3.1-8b-instant",
+                model="openai/gpt-oss-20b",
                 messages=[{"role": "user", "content": prompt}],
             )
             return completion.choices[0].message.content, "Groq"
