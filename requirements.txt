@@ -1,12 +1,8 @@
---extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 pandas
 numpy
-scikit-learn==1.6.1
-joblib
-torch==2.4.1
-transformers==4.41.2
-huggingface_hub==0.23.4
-sentence-transformers==3.0.1
-google-generativeai
+scikit-learn
+sentence-transformers
+google-genai
 groq
+pdfplumber
