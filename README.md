@@ -4,7 +4,7 @@
 
 InsightIQ is a full-stack AI platform that combines classic machine learning predictions with a Retrieval-Augmented Generation (RAG) chatbot, letting any business turn raw data and documents into instant, natural-language insights.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here]
+🔗 **Live Demo:** [https://insightiq-ai-abrar.streamlit.app/Ask_AI]
 
 ---
 
